@@ -1,5 +1,5 @@
-# **FRONT-END APPLICATIONS WITH VUE FRAMEWORK** [![Follow on GitHub](https://img.shields.io/github/followers/YADICEP?label=Follow&style=social)](https://github.com/YADICEP)
-It consists of 3 different applications: one for practicing state management with Vuex through a counter, another for practicing navigation with Vue Router across multiple views, and finally, one for practicing communication between components.  
+# **FRONT-END APPLICATIONS + UNIT TESTS** [![Follow on GitHub](https://img.shields.io/github/followers/YADICEP?label=Follow&style=social)](https://github.com/YADICEP)
+It consists of 3 different applications: one for practicing state management with Vuex through a counter, another for practicing navigation with Vue Router across multiple views, and finally, one for practicing communication between components. Unit tests are also run to verify the functionality of each application.
 
 Check out the application here 👉🏼 https://pruebam7-af3a1.web.app/
 
@@ -10,6 +10,7 @@ Check out the application here 👉🏼 https://pruebam7-af3a1.web.app/
 - **Vite**
 - **Vuex**
 - **Firebase**
+- **Jest**
 - **JavaScript**
 - **Bootstrap**
 - **HTML5**
@@ -78,6 +79,11 @@ npm run test:unit
 ### Deploy the application
 ```
 firebase deploy
+```
+
+### Run tests
+```
+npm run test:unit
 ```
 
 ---
